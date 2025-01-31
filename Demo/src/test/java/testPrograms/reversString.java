@@ -18,6 +18,8 @@ public class reversString {
 			// front of the existing string
 			r = ch + r;
 		}
+		System.out.println("hello world");
+		System.out.println("good morning");
 
 		System.out.println(r);
 	}
